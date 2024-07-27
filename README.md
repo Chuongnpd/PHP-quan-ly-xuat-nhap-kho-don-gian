@@ -1,6 +1,5 @@
 # PHP quản lý xuất nhập kho đơn giản
  PHP quản lý xuất nhập kho đơn giản
-# Markdown syntax guide
 
 ## Headers
 
@@ -38,7 +37,7 @@ _You **can** combine them_
 
 ## Images
 
-![This is an alt text.](https://upanh.tv/content/images/system/home_cover_1632382626227_5c385b.jpg "This is a sample image.")
+![This is an alt text.](https://upanh.tv/content/images/system/home_cover_1632382626227_5c385b.jpg "Đây là ảnh mẫu thử")
 
 ## Links
 
